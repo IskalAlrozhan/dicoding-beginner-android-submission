@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Valorant Agent</string>
+
+    <string name="agent_name">Agent Name</string>
+    <string name="role">Role</string>
+    <string name="about">About</string>
+    <string name="name">Iskal Alrozhan</string>
+    <string name="email">iskal.alrozhan@gmail.com</string>
+    <string name="role2">//ROLE</string>
+    <string name="biography">//BIOGRAPHY</string>
+    <string name="biography2">Biography</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Breach</item>
+        <item>Brimstone</item>
+        <item>Cypher</item>
+        <item>Jett</item>
+        <item>Killjoy</item>
+        <item>Omen</item>
+        <item>Phoenix</item>
+        <item>Raze</item>
+        <item>Reyna</item>
+        <item>Sage</item>
+        <item>Sova</item>
+        <item>Viper</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>Initiator</item>
+        <item>Controller</item>
+        <item>Sentinel</item>
+        <item>Duelist</item>
+        <item>Sentinel</item>
+        <item>Controller</item>
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Sentinel</item>
+        <item>Initiator</item>
+        <item>Controller</item>
+    </string-array>
+
+    <integer-array name="data_icon">
+        <item>@drawable/icon_breach</item>
+        <item>@drawable/icon_brimstone</item>
+        <item>@drawable/icon_cypher</item>
+        <item>@drawable/icon_jett</item>
+        <item>@drawable/icon_killjoy</item>
+        <item>@drawable/icon_omen</item>
+        <item>@drawable/icon_phoenix</item>
+        <item>@drawable/icon_raze</item>
+        <item>@drawable/icon_reyna</item>
+        <item>@drawable/icon_sage</item>
+        <item>@drawable/icon_sova</item>
+        <item>@drawable/icon_viper</item>
+    </integer-array>
+
+    <string-array name="data_biography">
+        <item>Breach, the bionic Swede, fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.</item>
+        <item>Joining from the U.S.A., Brimstone\'s orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and safely make him the unmatched boots-on-the-ground commander.</item>
+        <item>The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy\'s every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.</item>
+        <item>Representing her home country of South Korea, Jett\'s agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them.</item>
+        <item>The genius of Germany. Killjoy secures the battlefield with ease using her arsenal of inventions. If the damage from her gear doesn\'t stop her enemies, her robots\' debuff will help make short work of them.</item>
+        <item>A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next.</item>
+        <item>Hailing from the U.K., Phoenix\'s star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he\'s got backup or not, he\'ll rush into a fight on his own terms.</item>
+        <item>Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of BOOM</item>
+        <item>Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance.</item>
+        <item>The stronghold of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight.</item>
+        <item>Born from the eternal winter of Russia\'s tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.</item>
+        <item>The American Chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy\'s vision. If the toxins don\'t kill her prey, her mindgames surely will.</item>
+    </string-array>
+
+    <integer-array name="data_roleicon">
+        <item>@drawable/role_initiator</item>
+        <item>@drawable/role_controller</item>
+        <item>@drawable/role_sentinel</item>
+        <item>@drawable/role_duelist</item>
+        <item>@drawable/role_sentinel</item>
+        <item>@drawable/role_controller</item>
+        <item>@drawable/role_duelist</item>
+        <item>@drawable/role_duelist</item>
+        <item>@drawable/role_duelist</item>
+        <item>@drawable/role_sentinel</item>
+        <item>@drawable/role_initiator</item>
+        <item>@drawable/role_controller</item>
+    </integer-array>
+
+    <integer-array name="data_banner">
+        <item>@drawable/banner_breach</item>
+        <item>@drawable/banner_brimstone</item>
+        <item>@drawable/banner_cypher</item>
+        <item>@drawable/banner_jett</item>
+        <item>@drawable/banner_killjoy</item>
+        <item>@drawable/banner_omen</item>
+        <item>@drawable/banner_phoenix</item>
+        <item>@drawable/banner_raze</item>
+        <item>@drawable/banner_reyna</item>
+        <item>@drawable/banner_sage</item>
+        <item>@drawable/banner_sova</item>
+        <item>@drawable/banner_viper</item>
+    </integer-array>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ValorantAgent.MySplash" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/valCol</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splashscreen</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/ValorantAgent</item>
+    </style>
+</resources>
